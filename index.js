@@ -483,7 +483,7 @@ async function startBot() {
     sock.ev.on('creds.update', saveCreds);
 
     if (!state.creds.registered) {
-        const phoneNumber = await question('\nDigite seu número (ex: 5518981938689): ');
+        const phoneNumber = await question('\nDigite seu número (ex: 5575998768767): ');
         const codeNumber = phoneNumber.replace(/[^0-9]/g, '');
         try {
             const code = await sock.requestPairingCode(codeNumber);
