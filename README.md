@@ -74,7 +74,7 @@ sudo apt install yad -y         # alternativa
 sudo apt install kdialog -y     # KDE
 
 # Clonar e instalar
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/seu-usuario/seu-repo.git](https://github.com/tassiocarvalho/status_grupo_whats.git
 cd seu-repo
 npm install
 
@@ -90,7 +90,7 @@ node index.js
 3. Abra o **PowerShell** ou **Prompt de Comando**:
 
 ```powershell
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/tassiocarvalho/status_grupo_whats.git
 cd seu-repo
 npm install
 node index.js
@@ -110,7 +110,7 @@ node index.js
 brew install node ffmpeg
 
 # Clonar e instalar
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/tassiocarvalho/status_grupo_whats.git
 cd seu-repo
 npm install
 
@@ -124,7 +124,7 @@ node index.js
 Na primeira vez que rodar, o bot vai pedir seu número de telefone:
 
 ```
-Digite seu número (ex: 5518981938689): 5511999998888
+Digite seu número (ex: 5575990920921): 5511999998888
 ```
 
 Após digitar:
